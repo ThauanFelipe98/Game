@@ -1,0 +1,30 @@
+.bola{
+    width: 100px;
+    height: 150px;
+    border-radius: 55px;
+    position: absolute;
+    background-image: url(./gifpomba.gif);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+  
+   
+}
+
+body{
+    /*background-image: url(./gifceu.gif);*/
+    background-color: rgb(57, 185, 224);
+    background-repeat: no-repeat;
+    background-size: 110%;
+    cursor: crosshair;
+
+}
+
+h2{
+    color: white;
+    margin-left: 70%;
+    font-family: monospace;
+    border-radius: 20px ;
+    border: 2px solid rgb(192, 1, 1);
+    text-align: center;
+}
